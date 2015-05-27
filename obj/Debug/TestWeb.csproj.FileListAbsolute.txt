@@ -1,0 +1,12 @@
+c:\users\ihnat.klimchuk\documents\visual studio 2013\Projects\TestWeb\TestWeb\bin\TestWeb.dll.config
+c:\users\ihnat.klimchuk\documents\visual studio 2013\Projects\TestWeb\TestWeb\bin\TestWeb.dll
+c:\users\ihnat.klimchuk\documents\visual studio 2013\Projects\TestWeb\TestWeb\bin\TestWeb.pdb
+c:\users\ihnat.klimchuk\documents\visual studio 2013\Projects\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+c:\users\ihnat.klimchuk\documents\visual studio 2013\Projects\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+c:\users\ihnat.klimchuk\documents\visual studio 2013\Projects\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
+D:\Users\Ignat_000\Desktop\TestWeb\TestWeb\bin\TestWeb.dll.config
+D:\Users\Ignat_000\Desktop\TestWeb\TestWeb\bin\TestWeb.dll
+D:\Users\Ignat_000\Desktop\TestWeb\TestWeb\bin\TestWeb.pdb
+D:\Users\Ignat_000\Desktop\TestWeb\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+D:\Users\Ignat_000\Desktop\TestWeb\TestWeb\obj\Debug\TestWeb.dll
+D:\Users\Ignat_000\Desktop\TestWeb\TestWeb\obj\Debug\TestWeb.pdb
